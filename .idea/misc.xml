@@ -5,7 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/planner-todo/pom.xml" />
-        <option value="$PROJECT_DIR$/planner-config/pom.xml" />
         <option value="$PROJECT_DIR$/planner-server/pom.xml" />
         <option value="$PROJECT_DIR$/planner-gw/pom.xml" />
         <option value="$PROJECT_DIR$/planner-utils/pom.xml" />

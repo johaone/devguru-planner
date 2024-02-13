@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="planner-entity" />
-        <module name="planner-config" />
         <module name="planner-gw" />
         <module name="planner-utils" />
         <module name="planner-server" />
@@ -16,6 +15,9 @@
         <module name="planner-todo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="planner-config" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
